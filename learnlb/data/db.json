@@ -1,0 +1,41 @@
+{
+  "ids": {
+    "Test": 4,
+    "User": 11,
+    "UserCredentials": 11,
+    "Todo": 3
+  },
+  "models": {
+    "Test": {
+      "1": "{\"title\":\"string\",\"additionalProp1\":{},\"id\":1}",
+      "2": "{\"title\":\"test\",\"id\":2}",
+      "3": "{\"title\":\"loopback\",\"id\":3}"
+    },
+    "User": {
+      "8f864533-3dd0-49f3-8da3-57a7968faae3": "{\"id\":\"8f864533-3dd0-49f3-8da3-57a7968faae3\",\"username\":\"duc123\",\"email\":\"duc@gmail.com\",\"additionalProp1\":{}}",
+      "b8ed976b-871d-47a0-aed3-6b27b1d41dc2": "{\"id\":\"b8ed976b-871d-47a0-aed3-6b27b1d41dc2\",\"username\":\"duc1\",\"email\":\"duc1@gmail.com\",\"emailVerified\":true,\"additionalProp1\":{}}",
+      "b76532ee-331e-4a97-8115-66d5d73576ea": "{\"id\":\"b76532ee-331e-4a97-8115-66d5d73576ea\",\"username\":\"duc1102\",\"email\":\"duc1102@gmail.com\",\"role\":\"admin\"}",
+      "d8e5c21d-42ec-48d9-9bc0-a7ecf31caf72": "{\"id\":\"d8e5c21d-42ec-48d9-9bc0-a7ecf31caf72\",\"username\":\"duc4\",\"email\":\"duc4@gmail.com\"}",
+      "79a64350-11e6-4336-848f-4cab496d711c": "{\"id\":\"79a64350-11e6-4336-848f-4cab496d711c\",\"username\":\"duc99\",\"email\":\"duc99@gmail.com\"}",
+      "98a47764-d77f-4398-90e6-7e856abf0e60": "{\"id\":\"98a47764-d77f-4398-90e6-7e856abf0e60\",\"username\":\"duc6\",\"email\":\"duc6@gmail.com\"}",
+      "57e07594-7f79-4963-866a-7ec43f756d6f": "{\"id\":\"57e07594-7f79-4963-866a-7ec43f756d6f\",\"username\":\"duc7\",\"email\":\"duc7@gmail.com\"}",
+      "0b49643e-e1fc-467c-9b3a-48042ad3a73d": "{\"id\":\"0b49643e-e1fc-467c-9b3a-48042ad3a73d\",\"username\":\"duc8\",\"email\":\"duc8@gmail.com\"}",
+      "ce3623c0-3f28-4eef-81a6-c10aeb6e3bb6": "{\"id\":\"ce3623c0-3f28-4eef-81a6-c10aeb6e3bb6\",\"username\":\"duc9\",\"email\":\"duc9@gmail.com\"}"
+    },
+    "UserCredentials": {
+      "c719700b-7cdb-4163-8a3b-1358318adb92": "{\"id\":\"c719700b-7cdb-4163-8a3b-1358318adb92\",\"password\":\"$2a$10$sAIUnyWnICAnAQpHN9almuFYeG5Qs6TAeIX.wu/tMCcKIqpRhs16O\",\"userId\":\"8f864533-3dd0-49f3-8da3-57a7968faae3\"}",
+      "166cc4f8-70fb-41e8-b55e-7e14f9f56c97": "{\"id\":\"166cc4f8-70fb-41e8-b55e-7e14f9f56c97\",\"password\":\"$2a$10$cpq6ayq86MbUMzpWvzyCEeCOoHVqGxvCSK1nbFls5fLWiKkQLNHz6\",\"userId\":\"b8ed976b-871d-47a0-aed3-6b27b1d41dc2\"}",
+      "3c37fcb1-097c-4f76-826c-8b3cab4e6747": "{\"id\":\"3c37fcb1-097c-4f76-826c-8b3cab4e6747\",\"password\":\"$2a$10$uaKEVTlyNDFZsFYb0gPFsepZXlNX5srZhnCAE2TwQk5t1dvsU2Ioi\",\"userId\":\"e15c2822-4d76-4297-9296-b588a6d5fc51\"}",
+      "e9e3a979-b2f4-474f-93f9-356d6be77e4f": "{\"id\":\"e9e3a979-b2f4-474f-93f9-356d6be77e4f\",\"password\":\"$2a$10$bdUbYXwaet9ijIXvTUudfeQbeJD56vVgpBEHQGJWn.Eg2sryLRGVq\",\"userId\":\"b76532ee-331e-4a97-8115-66d5d73576ea\"}",
+      "7afb96a6-f7b0-4b28-81a2-eeb3d68fc4f6": "{\"id\":\"7afb96a6-f7b0-4b28-81a2-eeb3d68fc4f6\",\"password\":\"$2a$10$iKgG1K.Dw4CRY2Ees9fQO.ZVeowtMgVuIOsGtX63WrV9adub.XPs6\",\"userId\":\"d8e5c21d-42ec-48d9-9bc0-a7ecf31caf72\"}",
+      "d8c6ec68-8cc4-4cb8-ba7b-8382cba0a715": "{\"id\":\"d8c6ec68-8cc4-4cb8-ba7b-8382cba0a715\",\"password\":\"$2a$10$N3WsWG13YRg.NdjZbyYpY.PZhoCP2BDauVhyJY.ASa2CRe/V97h2u\",\"userId\":\"79a64350-11e6-4336-848f-4cab496d711c\"}",
+      "dafb9a1c-5312-4d6c-a810-864d5a5994dc": "{\"id\":\"dafb9a1c-5312-4d6c-a810-864d5a5994dc\",\"password\":\"$2a$10$xyb1JIArtX8Z4s2cEpT0e.8H0P/V7GTtvkbbDHPupZUuHLqRFMBS.\",\"userId\":\"98a47764-d77f-4398-90e6-7e856abf0e60\"}",
+      "1d37264a-d00c-4d44-920d-bb9a7bf09e05": "{\"id\":\"1d37264a-d00c-4d44-920d-bb9a7bf09e05\",\"password\":\"$2a$10$IeD6oxB0STWzjtYQVdw7Ne13deYIwR60Z0VMRoZw5iL.VpI9Pkn.a\",\"userId\":\"57e07594-7f79-4963-866a-7ec43f756d6f\"}",
+      "04e3903c-2ba5-4562-8d68-abaf2addd5ab": "{\"id\":\"04e3903c-2ba5-4562-8d68-abaf2addd5ab\",\"password\":\"$2a$10$quEeyobZhxBzNcTDIJZnfuSQ5UAMjZM7ncDRW.EdwAhChTkR3hVHa\",\"userId\":\"0b49643e-e1fc-467c-9b3a-48042ad3a73d\"}",
+      "951ed734-79d0-44d4-a8b3-1e3fdd318258": "{\"id\":\"951ed734-79d0-44d4-a8b3-1e3fdd318258\",\"password\":\"$2a$10$icEg53JSbPV8Ube9348wv.5gJly8g9iXaGxcDcn6w0.Gg4fja7J/O\",\"userId\":\"ce3623c0-3f28-4eef-81a6-c10aeb6e3bb6\"}"
+    },
+    "Todo": {
+      "1": "{\"title\":\"Learn loopback\",\"desc\":\"nobody\",\"isComplete\":true,\"id\":1}"
+    }
+  }
+}
